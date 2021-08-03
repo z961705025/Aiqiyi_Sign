@@ -26,7 +26,7 @@
 ---
 
 ### 安装依赖
-
+1
 ```shell
 pip install -r requirements.txt
 ```
